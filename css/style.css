@@ -36,6 +36,11 @@
                 text-transform: uppercase;
                 color: #fff;
             }
+
+                .registration_closed {
+                    color: hsl(40, 100%, 50%);
+                    background: #fff;
+                }
             .registration:hover,
             .registration:focus {
                 color: hsl(40, 100%, 50%);
